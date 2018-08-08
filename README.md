@@ -9,7 +9,7 @@ and [semantic-ui-react](http://react.semantic-ui.com/introduction).
 Add the following stylesheet to your *index.html*:
 
 ```html
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css"></link>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.min.css"></link>
 ```
 
 
