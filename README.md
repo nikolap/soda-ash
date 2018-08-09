@@ -17,7 +17,7 @@ Put the following in the `:dependencies` vector of your *project.clj*
 
 ```clojure
 [reagent "0.8.1"]
-[soda-ash "0.81.1"]
+[soda-ash "0.82.2"]
 ```
 
 Then require soda-ash in your namespace.
